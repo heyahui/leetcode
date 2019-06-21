@@ -29,7 +29,7 @@ public class Q004 {
         public int[][] flipAndInvertImage(int[][] A) {
             int size = A[0].length;
             for (int i = 0; i < A.length; i++) {
-                for (int j = 0; j < size / 2; j++) {
+                for (int j = 0; j < size >> 1; j++) {
                     int tmp = A[i][j];
                     A[i][j] = A[i][size-1-j];
                     A[i][size-1-j] = tmp;
