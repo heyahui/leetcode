@@ -46,3 +46,16 @@ https://leetcode-cn.com/problems/find-pivot-index|y2019/Q041.java
 https://leetcode-cn.com/problems/maximum-binary-tree|y2019/Q042.java
 https://leetcode-cn.com/problems/n-queens-ii|y2019/Q043.java
 https://leetcode-cn.com/problems/spiral-matrix-ii|y2019/Q044.java
+https://leetcode-cn.com/problems/counting-bits|y2019/Q045.java
+https://leetcode-cn.com/problems/all-paths-from-source-to-target|y2019/Q046.java
+https://leetcode-cn.com/problems/generate-parentheses|y2019/Q047.java
+https://leetcode-cn.com/problems/permutations|y2019/Q048.java
+https://leetcode-cn.com/problems/construct-binary-search-tree-from-preorder-traversal|y2019/Q049.java
+https://leetcode-cn.com/problems/binary-search-tree-to-greater-sum-tree|y2019/Q050.java
+https://leetcode-cn.com/problems/binary-tree-pruning|y2019/Q051.java
+https://leetcode-cn.com/problems/score-after-flipping-matrix|y2019/Q052.java
+https://leetcode-cn.com/problems/letter-tile-possibilities|y2019/Q053.java
+https://leetcode-cn.com/problems/all-possible-full-binary-trees|y2019/Q054.java
+https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others|y2019/Q055.java
+https://leetcode-cn.com/problems/plus-one|y2019/Q056.java
+https://leetcode-cn.com/problems/diagonal-traverse|y2019/Q057.java
